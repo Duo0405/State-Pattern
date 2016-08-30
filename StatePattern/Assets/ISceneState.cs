@@ -26,7 +26,7 @@ public class ISceneState {
     {
 
     }
-    public virtual void SteatEnd()
+    public virtual void StateEnd()
     {
 
     }
